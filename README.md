@@ -3,6 +3,7 @@
 <img width="1435" height="794" alt="Screenshot 2025-09-05 at 15 35 22" src="https://github.com/user-attachments/assets/5f3599c3-676d-4f25-879b-3104313ff0a8" />
 
 
+
 A lightweight WordPress plugin that adds a **Back to Top** button to your website.  
 The button smoothly scrolls users back to the top of the page, improving navigation and user experience.
 
